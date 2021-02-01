@@ -1,4 +1,3 @@
-// TO-DO !
 "using strict";
 
 const todoList = [];
