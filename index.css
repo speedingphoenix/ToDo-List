@@ -112,3 +112,9 @@ ul li.checked::before {
   background-color: red;
   color: black;
 }
+
+@media screen and (max-width: 300px) {
+* {
+    width: 100%;
+  }
+}
