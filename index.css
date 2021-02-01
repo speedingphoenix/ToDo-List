@@ -102,7 +102,6 @@ ul li.checked::before {
 
 /* Style the trash button */
 .far {
-  
   position: absolute;
   right: 0;
   top: 0;
@@ -110,6 +109,6 @@ ul li.checked::before {
 }
 
 .far:hover {
-  background-color: tomato;
-  color: white;
+  background-color: red;
+  color: black;
 }
